@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div align="center">
 
   <h1>Zafron's Portfolio</h1>
@@ -146,6 +145,6 @@ I would like to thank Microverse and Team for all the support.
 
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is licensed with [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
